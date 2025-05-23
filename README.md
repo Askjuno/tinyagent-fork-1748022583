@@ -233,3 +233,6 @@ You can chat with TinyAgent and build your own TinyAgent for your use case.
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+
+Tiny Agent
